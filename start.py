@@ -3,9 +3,9 @@ import csv
 # Twoje pierwsze dane (lista produktów)
 dane = [
     ["Produkt", "Cena", "Status"],
-    ["Karta Graficzna", 2500, "Wysyłka"],
-    ["Monitor 4K", 1200, "Magazyn"],
-    ["Kabel HDMI", 45, "Wysłano"]
+    ["Test", 2500, "Wysyłka"],
+    ["Test1", 1200, "Magazyn"],
+    ["Test2", 45, "Wysłano"]
 ]
 
 # Tworzenie pliku CSV (to taka uproszczona baza danych)
